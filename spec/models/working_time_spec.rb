@@ -7,7 +7,7 @@ RSpec.describe WorkingTime, type: :model do
     end
   end
 
-  describe 'factory' do
+  describe 'validations' do
     context 'when working_time is not linked to any subject' do
       it { expect(build(:working_time, subject_id: nil)).not_to be_valid }
     end
