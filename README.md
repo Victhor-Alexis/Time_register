@@ -1,5 +1,7 @@
 # README
 
+db:diagram link: https://dbdiagram.io/d/61cb3d223205b45b73cfbc5e
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
